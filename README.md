@@ -4,6 +4,9 @@
 </p>
 
 # 👨‍💻 Wallace Borges dos Santos
+<p align="center">
+  <img src="assets/meu-gif.gif" width="250px">
+</p>
 
 <p align="center">
 🔐 Segurança da Informação | 📊 Dados | ☁️ Cloud | 🤖 Automação
