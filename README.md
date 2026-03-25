@@ -4,11 +4,9 @@
 </p>
 
 # 👨‍💻 Wallace Borges dos Santos
-<p align="center">
-  <img src="assets/meu-gif.gif" width="250px">
-</p>
+![git](https://github.com/user-attachments/assets/48f95deb-b78c-4ac6-905f-2efb09cee8d9)
 
-<p align="center">
+
 🔐 Segurança da Informação | 📊 Dados | ☁️ Cloud | 🤖 Automação
 </p>
 
