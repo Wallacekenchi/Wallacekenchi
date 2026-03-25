@@ -1,105 +1,158 @@
-# 👨‍💻 Fala aí! Eu sou o Wallace 👋
+<!-- ANIMAÇÃO HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=1000&lines=Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o;Dados+%2B+Power+BI;Cloud+e+Automa%C3%A7%C3%A3o;Aprendendo+e+evoluindo+todos+os+dias" />
+</p>
 
-🔐 Engenheiro de Segurança
-📊 Aprendendo dados
-☁️ Explorando cloud + automação
-🤖 E em constante busca de conhecimento tentando aprender e me destacar no cardume 😄
+# 👨‍💻 Wallace Borges dos Santos
 
----
-
-## 🧠 Sobre mim 
-
-Comecei lá atrás com logistica fiz o Técnologo, onde juntei minhas economias e fiz cursinho e por fim cursei Ciencia da Computação no estagio comecei com infraestrutura e suport depois fui trabalhar numa empresa de tecnologia real e la aprendi Segurança da informação fiz diversos cursos e hoje sigo mergulhado em **Segurança da Informação** porem aprendendo Dados e Inteligencia artificial.
-
-Mas o que me diferencia mesmo?
-
-👉 Eu não olho só segurança…
-👉 Eu olho segurança com DADOS
-👉 E aprendendo automação e novas formas de melhorar o dia a dia meu e de meus colegas.
-
-
-Hoje eu trabalho com:
-
-* IAM / PAM / SOC
-* Análise das tabelas e automações de tarefas com Python
-* SQL pra tirar informação que ninguém vê
-* Power BI pra transformar isso em decisão
+<p align="center">
+🔐 Segurança da Informação | 📊 Dados | ☁️ Cloud | 🤖 Automação
+</p>
 
 ---
 
-## 🚀 O que você vai ver por aqui
+## 🧠 Sobre mim
 
-Nada de repositório morto 😴
+Iniciei minha trajetória na logística, onde desenvolvi disciplina e visão operacional.  
+Com o tempo, direcionei minha carreira para tecnologia, me formando em Ciência da Computação.
 
-Aqui tem:
+Comecei com infraestrutura e suporte e, na prática, me aproximei da área de **Segurança da Informação**, onde atuo atualmente.
 
-🔐 Segurança na prática (IAM, logs, acessos)
-📊 Dashboards e meus estudos do MBA
-🤖 Scripts que automatizam
-☁️ Estudos de cloud
+Hoje busco evoluir integrando:
 
----
+- Segurança  
+- Dados  
+- Automação  
 
-### 🔐 Meu Serviço Hoje
-
-Controle de acessos + análise de risco
-👉 Quem tem acesso demais? 
-* Quem não deveria estar lá? 
-* Como esta a gestão desses acessos
-* Controle de desempenho do Setor
+Sempre com foco em resolver problemas reais e melhorar processos.
 
 ---
 
-### 📊 Dashboard de Segurança
+## 💼 Atuação atual
 
-Visualização de:
+- 🔐 Gestão de acessos (IAM / PAM)  
+- 🛡️ Monitoramento e apoio em operações de segurança (SOC)  
+- 📊 Análise de dados com SQL  
+- 🤖 Automação com Python  
+- 📈 Dashboards com Power BI  
 
-* acessos
-* incidentes
-* riscos
-
-Tudo no Power BI (sem maquiagem, só dado útil)
-
----
-
-### 🤖 Automação com Python
-
-Scripts pra:
-
-* analisar logs
-* identificar padrões
-* evitar trabalho manual (porque ninguém merece)
+Transformando dados operacionais em **informação útil para tomada de decisão**.
 
 ---
 
-## 📈 Em evolução constante (porque parar é morrer)
+## 🚀 Projetos em destaque
 
-* 📚 Pós em Data Analytics & Big Data
-* 🔐 Estudando Security+
-* 🐧 Linux Essentials
-* 🤖 Explorando IA no dia a dia
+### 🔐 Segurança + Power BI (Projeto Conceitual)
 
----
+Dashboard voltado para análise de:
 
-## ⚡ Curiosidades sobre mim
+- acessos indevidos  
+- riscos de permissões  
+- comportamento de usuários  
+- indicadores de segurança  
 
-* Já fui de estoque → TI → segurança
-* Curto deixar tudo automatizado
-* Odeio tarefa repetitiva
-* Se dá pra transformar em dashboard, eu faço
+🎯 Objetivo: transformar dados técnicos em visão clara para gestão  
 
----
-
-## 📫 Bora trocar ideia?
-
-💼 LinkedIn:(https://www.linkedin.com/in/wallace-bsantos/)
-📧 Email: [wallace.kenchi@gmail.com](mailto:wallace.kenchi@gmail.com)
+🎨 Interface planejada com apoio de design (Figma), focando em clareza e usabilidade  
 
 ---
 
-💡 Se você curte segurança + dados, você tá no lugar certo.
+### 💰 Controle de gastos em viagem
+🔗 https://dollar-trip-buddy.lovable.app  
 
+Aplicação para organização financeira durante viagens.  
+Permite registrar, acompanhar e visualizar gastos de forma simples.
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wallacekenchi&show_icons=true&theme=radical)
+---
+
+### ⏱️ Controle de tempo de estudos
+🔗 https://ascend-daily-focus.lovable.app  
+
+Projeto voltado à disciplina de estudos.  
+Ajuda a manter consistência e acompanhamento de tempo dedicado.
+
+---
+
+### 🌐 Hub de Tecnologia (Notion)
+🔗 https://www.notion.so/Meu-Hub-de-Tecnologia-Wallace-32e69695df55808c8a07cf2c05ad943a  
+
+Espaço onde organizo:
+
+- estudos  
+- projetos  
+- evolução profissional  
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="PowerBI" height="40" width="50" src="https://img.icons8.com/color/48/power-bi.png">
+  <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Azure" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+</div>
+
+---
+
+## 📈 Em desenvolvimento
+
+- 📚 Pós-graduação em Data Analytics & Big Data  
+- 🔐 Preparação para Security+  
+- 🐧 Linux Essentials  
+- 🤖 Aplicações práticas com IA  
+
+---
+
+## 🏆 Certificações
+
+<p align="center">
+  <a href="https://www.credly.com/users/wallace-borges-santos/badges">
+    <img src="https://img.shields.io/badge/Credly-Ver%20Certifica%C3%A7%C3%B5es-blue?style=for-the-badge&logo=credly&logoColor=white">
+  </a>
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/Wallacekenchi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wallacekenchi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wallacekenchi&layout=compact&theme=tokyonight"/>
+  </a>
+</div>
+
+---
+
+## 🔥 Atividade
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Wallacekenchi&theme=tokyonight" />
+</div>
+
+---
+
+## 📫 Contato
+
+<div> 
+  <a href="https://www.linkedin.com/in/wallace-bsantos/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+  <a href="https://www.notion.so/Meu-Hub-de-Tecnologia-Wallace-32e69695df55808c8a07cf2c05ad943a" target="_blank">
+    <img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  </a>
+  <a href="mailto:wallace.kenchi@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
+
+---
+
+## 🌱 Evolução contínua
+
+Estou em constante aprendizado, buscando evoluir tecnicamente e melhorar a forma como resolvo problemas.
+
+Compartilho aqui projetos, estudos e aplicações práticas ao longo dessa jornada.
 
