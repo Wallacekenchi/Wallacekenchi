@@ -1,26 +1,27 @@
 # 👨‍💻 Fala aí! Eu sou o Wallace 👋
 
 🔐 Engenheiro de Segurança
-📊 Viciado em dados
+📊 Aprendendo dados
 ☁️ Explorando cloud + automação
-🤖 Tentando fazer a IA trabalhar por mim (Copilot tá aí pra isso 😄)
+🤖 E em constante busca de conhecimento tentando aprender e me destacar no cardume 😄
 
 ---
 
-## 🧠 Sobre mim (sem formalidade chata)
+## 🧠 Sobre mim 
 
-Comecei lá atrás com infraestrutura, banco de dados e suporte…
-e hoje tô mergulhado em **Segurança da Informação no mundo real** — banco, pressão, incidente, acesso, tudo junto.
+Comecei lá atrás com logistica fiz o Técnologo, onde juntei minhas economias e fiz cursinho e por fim cursei Ciencia da Computação no estagio comecei com infraestrutura e suport depois fui trabalhar numa empresa de tecnologia real e la aprendi Segurança da informação fiz diversos cursos e hoje sigo mergulhado em **Segurança da Informação** porem aprendendo Dados e Inteligencia artificial.
 
 Mas o que me diferencia mesmo?
 
 👉 Eu não olho só segurança…
-👉 Eu olho segurança com DADOS.
+👉 Eu olho segurança com DADOS
+👉 E aprendendo automação e novas formas de melhorar o dia a dia meu e de meus colegas.
+
 
 Hoje eu trabalho com:
 
 * IAM / PAM / SOC
-* Análise de logs com Python
+* Análise das tabelas e automações de tarefas com Python
 * SQL pra tirar informação que ninguém vê
 * Power BI pra transformar isso em decisão
 
@@ -33,18 +34,19 @@ Nada de repositório morto 😴
 Aqui tem:
 
 🔐 Segurança na prática (IAM, logs, acessos)
-📊 Dashboards que fazem sentido
-🤖 Scripts que automatizam coisa chata
-☁️ Estudos de cloud sem enrolação
+📊 Dashboards e meus estudos do MBA
+🤖 Scripts que automatizam
+☁️ Estudos de cloud
 
 ---
 
-## 🧩 Projetos (os de verdade)
+### 🔐 Meu Serviço Hoje
 
-### 🔐 IAM na prática
-
-Simulação de controle de acessos + análise de risco
-👉 Quem tem acesso demais? Quem não deveria estar lá?
+Controle de acessos + análise de risco
+👉 Quem tem acesso demais? 
+* Quem não deveria estar lá? 
+* Como esta a gestão desses acessos
+* Controle de desempenho do Setor
 
 ---
 
