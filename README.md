@@ -1,46 +1,103 @@
-# Comprehensive Professional Profile
+# 👨‍💻 Fala aí! Eu sou o Wallace 👋
 
-## Security
-- Certified Information Systems Security Professional (CISSP)
-- Experience with security audits and vulnerability assessments
-- Knowledge of compliance frameworks such as GDPR and HIPAA
+🔐 Engenheiro de Segurança
+📊 Viciado em dados
+☁️ Explorando cloud + automação
+🤖 Tentando fazer a IA trabalhar por mim (Copilot tá aí pra isso 😄)
 
-## Data
-- Proficient in data analysis and visualization tools like Tableau and Power BI
-- Experience with large datasets and data warehousing solutions
-- Knowledge of SQL and NoSQL databases
+---
 
-## Automation
-- Skilled in Python scripting for process automation
-- Experience with CI/CD pipelines using Jenkins and GitHub Actions
-- Familiar with infrastructure as code using Terraform
+## 🧠 Sobre mim (sem formalidade chata)
 
-## Tech Stack Badges
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+Comecei lá atrás com infraestrutura, banco de dados e suporte…
+e hoje tô mergulhado em **Segurança da Informação no mundo real** — banco, pressão, incidente, acesso, tudo junto.
 
-## Certifications
-- AWS Certified Solutions Architect
-- Microsoft Certified: Azure Fundamentals
-- CompTIA Security+
+Mas o que me diferencia mesmo?
 
-## Featured Projects
-- **Automated Deployment with Terraform**: A project utilizing Terraform to automate infrastructure deployment on AWS.
-- **Data Visualization Dashboard**: Build an interactive dashboard using Tableau for data insights.
+👉 Eu não olho só segurança…
+👉 Eu olho segurança com DADOS.
 
-## Skills
-- Programming Languages: Python, JavaScript, Java
-- Tools: Docker, Kubernetes, Jenkins
-- Databases: MySQL, PostgreSQL, MongoDB
+Hoje eu trabalho com:
+
+* IAM / PAM / SOC
+* Análise de logs com Python
+* SQL pra tirar informação que ninguém vê
+* Power BI pra transformar isso em decisão
+
+---
+
+## 🚀 O que você vai ver por aqui
+
+Nada de repositório morto 😴
+
+Aqui tem:
+
+🔐 Segurança na prática (IAM, logs, acessos)
+📊 Dashboards que fazem sentido
+🤖 Scripts que automatizam coisa chata
+☁️ Estudos de cloud sem enrolação
+
+---
+
+## 🧩 Projetos (os de verdade)
+
+### 🔐 IAM na prática
+
+Simulação de controle de acessos + análise de risco
+👉 Quem tem acesso demais? Quem não deveria estar lá?
+
+---
+
+### 📊 Dashboard de Segurança
+
+Visualização de:
+
+* acessos
+* incidentes
+* riscos
+
+Tudo no Power BI (sem maquiagem, só dado útil)
+
+---
+
+### 🤖 Automação com Python
+
+Scripts pra:
+
+* analisar logs
+* identificar padrões
+* evitar trabalho manual (porque ninguém merece)
+
+---
+
+## 📈 Em evolução constante (porque parar é morrer)
+
+* 📚 Pós em Data Analytics & Big Data
+* 🔐 Estudando Security+
+* 🐧 Linux Essentials
+* 🤖 Explorando IA no dia a dia
+
+---
+
+## ⚡ Curiosidades sobre mim
+
+* Já fui de estoque → TI → segurança
+* Curto deixar tudo automatizado
+* Odeio tarefa repetitiva
+* Se dá pra transformar em dashboard, eu faço
+
+---
+
+## 📫 Bora trocar ideia?
+
+💼 LinkedIn:(https://www.linkedin.com/in/wallace-bsantos/)
+📧 Email: [wallace.kenchi@gmail.com](mailto:wallace.kenchi@gmail.com)
+
+---
+
+💡 Se você curte segurança + dados, você tá no lugar certo.
+
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wallacekenchi&show_icons=true&theme=radical)
 
-## Learning Path
-- Continuous learning in Machine Learning and AI
-- Exploring advanced cloud computing solutions
-
-## Contact Information
-- Email: wallacekenchi@example.com
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/wallacekenchi)
