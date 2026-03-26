@@ -1,6 +1,6 @@
 <!-- ANIMAÇÃO HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=1000&lines=💻 Segurança+da+Informação;🎲 Dados+%2B+Power+BI;🌬️☁️ Cloud+e+Automação;Aprendendo+e+evoluindo+todos+os+dias🎯" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=1000&lines=💻-Segurança+da+Informação;🎲-Dados+%2B+Power+BI;🌬️☁️Cloud+e+Automação;✍️Aprendendo+e+evoluindo+todos+os+dias🎯" />
 </p>
 
 # 👨‍💻 Wallace Borges dos Santos
